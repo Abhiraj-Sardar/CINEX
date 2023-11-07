@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+<link rel="stylesheet" href="CSS/registration.css">
+</head>
+<body>
+<div class="container mt-5">
+
+        <h1 class="text-center mt-3 mb-4" style="color:#fff">User Registration Form</h1>
+        <br>
+        <form>
+        <div class="row">
+        <div class="col-7 form" style="margin-left:auto;margin-right: auto;">
+        <h3 class="text-center text-white pt-3">Personal Details</h3><hr style="background-color: white">
+        
+        <!--First Name Area-->
+        
+                <table class="table table-responsive">
+                    <tr>
+                    <td>First Name <span style="color:white">*</span></td>
+                    </tr>
+                    <tr style="margin-left:50px;">
+                    <td ><input type="text" name="fname" class="form-control" placeholder="Enter First Name" required></td>
+                    </tr>
+                </table>
+            
+        <!--Second Name Area-->
+
+                <table class="table table-responsive">
+                    <tr>
+                    <td>Second Name <span style="color: #fff;">*</span></td>
+                    </tr>
+                    <tr>
+                    <td><input type="text" name="sname" class="form-control" placeholder="Enter Second Name" required></td>
+                    </tr>
+                </table>
+
+        <!--Phone Number Area-->
+
+                <table class="table table-responsive">
+                    <tr>
+                    <td>Phone Number <span style="color: #fff;">*</span></td>
+                    </tr>
+                    <tr>
+                    <td><input type="text" name="ph" class="form-control" placeholder="Enter Phone Number" required></td>
+                    </tr>
+                </table>
+
+        <!--Email Area-->
+
+                <table class="table table-responsive">
+                    <tr>
+                    <td>Email <span style="color:white">*</span></td>
+                    </tr>
+                    <tr>
+                    <td><input type="email" name="fmail" class="form-control" placeholder="Enter Email" required></td>
+                    </tr>
+                </table>
+
+        <!--Gender Area-->
+
+                <table class="table table-responsive">
+                    <tr>
+                    <td>Gender <span style="color: #fff;">*</span></td>
+                    </tr>
+                    <tr>
+                    <td>
+                    <select name="gender" class="form-control" required>
+                    <option disabled selected value="">--Select Your Gender--</option>
+                    <option value="male">Male</option>
+                    <option value="female">Female</option>
+                    <option value="other">Other</option>
+                    </select>
+                    </td>
+                    </tr>
+                </table>
+
+        <!--DOB Area-->
+
+                <table class="table table-responsive">
+                    <tr>
+                    <td>Date of Birth <span style="color: #fff;">*</span></td>
+                    </tr>
+                    <tr>
+                    <td><input type="date" name="dob" class="form-control" required></td>
+                    </tr>
+                </table>
+
+        <!--Password Area-->
+
+                <table class="table table-responsive">
+                    <tr>
+                    <td>Password <span style="color: #fff;">*</span></td>
+                    </tr>
+                    <tr>
+                    <td><input type="password" name="fpass" class="form-control" placeholder="Enter Password" required></td>
+                    </tr>
+                </table>
+
+        <!--Password Confirmation Area-->
+
+                <table class="table table-responsive">
+                    <tr>
+                    <td>Password Confirmation <span style="color: #fff;">*</span></td>
+                    </tr>
+                    <tr>
+                    <td><input type="password" name="fpasscon" class="form-control" placeholder="Confirm Password" required></td>
+                    </tr>
+                </table>
+
+        <!--Security Question Area-->
+
+                    <table class="table table-responsive">
+                        <tr>
+                        <td>Security Question <span style="color:white">*</span></td>
+                        </tr>
+                        <tr>
+                        <td><input type="text" name="fques" class="form-control" placeholder="Enter Question Here" required></td>
+                        </tr>
+                        <tr>
+                        <td><input type="text" name="fans" class="form-control" placeholder="Enter Answer Here" required></td>
+                        </tr>
+                    </table>
+        </div>
+        </div>
+
+        <!--Terms and Conditions Area-->
+
+                <div class="container mt-2">
+                    <div class="row mt-2">
+                        <div class="col-12 m-0 p-0">
+                        <table  style="margin-left:245px">
+                        <tr>
+                        <td style="color:#fff"><b>I accept all Terms & Conditions</td>
+                        <td class="pl-1"><input type="checkbox" name="box" required></td>
+                        </tr>
+                        </table>
+                        
+        <!--Submit & Reset Button Area-->
+
+                        <div class="btn m-0 p-0">
+                        <table style="margin-left:238px">
+                        <tr>
+                        <td><input type="submit" name="ok" value="Submit" class="btn btn-outline-success">
+                        <input type="reset" value="Reset" class="btn btn-outline-danger ml-2">
+                        </td>
+                        </tr>
+                        </table>
+                        </div>
+                        </div>
+                    </div>
+                </div>
+        </form>
+        <!--Already User Login Area-->
+
+                <table  style="margin-left:242px; margin-bottom: 8px;margin-top: 2px;">
+                <tr>
+                <td style="color:#fff"><b>Already a User? <a href="#">Login</a></td>
+                </tr>
+                </table>
+                
+    </div>
+</body>
+</html>

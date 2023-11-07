@@ -1,0 +1,50 @@
+@charset "ISO-8859-1";
+body{
+	margin: 0px;
+    	padding: 0px;
+    	text-decoration: none;
+		background-img: linear-gradient(to top,#071952,#05BFDB);
+}
+
+.form{
+  	height: auto;
+    	background-color: rgb(10, 36, 58);
+    	border-radius: 15px;
+    	padding-bottom: 10px;		
+	box-shadow: 0px 0px 0px 0px;
+}
+
+.form table tr td{
+    	border: none;
+   	 color: #fff;
+    	padding-top: 3px;
+    	padding-bottom: 5px;
+		font-size: large;
+		text-indent: 90px;
+}
+
+.form table tr td input[type="text"], input[type="date"], input[type="email"], input[type="password"]{
+    	width: 380px;
+    	border-radius: 10px;
+		margin-left: 90px;
+		display: block;
+}
+.form table tr td select{
+    	width: 380px;
+    	border-radius: 10px;
+		margin-left: 90px;
+		display: block;
+		cursor:pointer;
+}
+
+.form table tr td input[type="date"]{
+	cursor:pointer;
+}
+
+.btn {
+    display: block;
+    float: left;
+}
+.btn input[type="submit"], input[type="reset"]{
+    padding: 8px 40px;
+}
