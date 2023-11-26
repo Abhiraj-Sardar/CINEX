@@ -12,7 +12,18 @@ This has two different views one is Homepage another is Adminpage.
 <h1>Sign In Page</h1>
 <img src="https://github.com/Abhiraj-Sardar/CINEX/blob/master/Output/Signin.png" height=750 width=650>
 
-![](|width=250)
+<h1>Client Side View</h1>
+
 ![](https://github.com/Abhiraj-Sardar/CINEX/blob/master/Output/afterlogin.gif)
 
+<h1>Subscription Plan</h1>
+
+![](https://github.com/Abhiraj-Sardar/CINEX/blob/master/Output/plan.png)
+![](https://github.com/Abhiraj-Sardar/CINEX/blob/master/Output/subscriptionplan.gif)
+
+<h1>Admin Side View</h1>
+
+![](https://github.com/Abhiraj-Sardar/CINEX/blob/master/Output/adminlogin.png)
+![](https://github.com/Abhiraj-Sardar/CINEX/blob/master/Output/admindashboard.gif)
+![](https://github.com/Abhiraj-Sardar/CINEX/blob/master/Output/plan.png)
 
