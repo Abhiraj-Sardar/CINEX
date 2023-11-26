@@ -16,13 +16,13 @@ The Structure of the Software is based on MVC (Model,View,Controller).The presen
 This has two different views one is Homepage another is Adminpage.
 
 <h1>How To Install and Run This Software</h1>
+<b>before installing it some database configurations need to be done please consider the end of this readme file for that</b>
   <ol type="1">
     <li>Copy The link from Github and paste it at git bash after this command <b>$git clone<pre><copied link></pre></b></li>
     <li>in your local system create a directory and open it in Eclipse</li>
        <li>now import the cloned project from Eclipse</li>
       <li>run index.jsp file for client side view</li>
        <li>run adminlogin.html for admin side view</li>
-       
   </ol>
       <b>don't forget to set the tomcat server i.e, setting the port and http requests</b>
 <h1>Home Page</h1>
@@ -90,3 +90,8 @@ Before we clone this project some configuratons are needed to be mend. as it use
 
 ![](https://github.com/Abhiraj-Sardar/CINEX/blob/master/Output/databasetransaction.png)
 
+<h1>Future Scope</h1>
+<ol>
+   <li>in future it can be upgraded to provide more functionalities like two step verfication for the user,secure transaction using Razorpay etc</li>
+   <li>It based on MVC so who want to understand the MVC Model in basic they can refer this project</li>
+</ol>
