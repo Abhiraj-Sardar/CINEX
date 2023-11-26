@@ -1,6 +1,16 @@
 # CINEX
 <h1>Introduction</h1>
 CINEX is an OTT platform where user can Binge,Watch and Enjoy. Like Other OTT platforms you can find here movies based on your choice like Action,Drama,Romance,Thriller etc. This software also contains an interactive Admin Dashboard with the features of adding a movie,view number of active users,Admin can create another admin to share the auyhiority, can also view transactions etc.
+<h1>Technology Stack</h1>
+<ol>
+   <li><b>HTML5:</b>https://www.w3schools.com/html/</li>
+    <li><b>CSS5:</b> https://www.w3schools.com/css/</li>
+    <li><b>Bootstrap:</b>https://getbootstrap.com/</li>
+    <li><b>JavaScript:</b>https://www.w3schools.com/js/</li>
+    <li><b>Java:</b>https://www.w3schools.com/java/</li>
+  <li><b>Jdbc:</b>https://www.geeksforgeeks.org/introduction-to-jdbc/</li>
+  <li><b>Mysql:</b>https://www.mysql.com/</li>
+</ol>
 <h1>Software Structure</h1>
 The Structure of the Software is based on MVC (Model,View,Controller).The presentation logics are implemented in the view section it contains all the html or jsp pages. The Controller portion is used for bussiness logic like for taking decisions it conatins servlets. Model portion deals with the databases.
 This has two different views one is Homepage another is Adminpage.
