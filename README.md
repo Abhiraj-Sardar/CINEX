@@ -10,6 +10,7 @@ CINEX is an OTT platform where user can Binge,Watch and Enjoy. Like Other OTT pl
     <li><b>Java:</b>https://www.w3schools.com/java/</li>
   <li><b>Jdbc:</b>https://www.geeksforgeeks.org/introduction-to-jdbc/</li>
   <li><b>Mysql:</b>https://www.mysql.com/</li>
+   <li>Tomcat v9 Server:https://tomcat.apache.org/</li>
 </ol>
 <h1>Software Structure</h1>
 The Structure of the Software is based on MVC (Model,View,Controller).The presentation logics are implemented in the view section it contains all the html or jsp pages. The Controller portion is used for bussiness logic like for taking decisions it conatins servlets. Model portion deals with the databases.
