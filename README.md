@@ -22,8 +22,8 @@ This has two different views one is Homepage another is Adminpage.
 ![](https://github.com/Abhiraj-Sardar/CINEX/blob/master/Output/subscriptionplan.gif)
 
 <h1>Admin Side View</h1>
+<img src="https://github.com/Abhiraj-Sardar/CINEX/blob/master/Output/adminlogin.png" height=750 width=650>
 
-![](https://github.com/Abhiraj-Sardar/CINEX/blob/master/Output/adminlogin.png)
 ![](https://github.com/Abhiraj-Sardar/CINEX/blob/master/Output/admindashboard.gif)
-![](https://github.com/Abhiraj-Sardar/CINEX/blob/master/Output/plan.png)
+
 
