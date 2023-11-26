@@ -22,8 +22,20 @@ This has two different views one is Homepage another is Adminpage.
 ![](https://github.com/Abhiraj-Sardar/CINEX/blob/master/Output/subscriptionplan.gif)
 
 <h1>Admin Side View</h1>
+lets see the admin side view of this software--
+<h1>Admin Login</h1>
 <img src="https://github.com/Abhiraj-Sardar/CINEX/blob/master/Output/adminlogin.png" height=750 width=650>
+<h1>Admin Dashboard</h1>
 
 ![](https://github.com/Abhiraj-Sardar/CINEX/blob/master/Output/admindashboard.gif)
+![](https://github.com/Abhiraj-Sardar/CINEX/blob/master/Output/uploadmovies.png)
+![](https://github.com/Abhiraj-Sardar/CINEX/blob/master/Output/uploadmoviesform.png)
+![](https://github.com/Abhiraj-Sardar/CINEX/blob/master/Output/ActiveMembers.png)
+![](https://github.com/Abhiraj-Sardar/CINEX/blob/master/Output/addadmin.png)
 
+![](https://github.com/Abhiraj-Sardar/CINEX/blob/master/Output/database1.png)
+![](https://github.com/Abhiraj-Sardar/CINEX/blob/master/Output/databaseadmin.png)
+![](https://github.com/Abhiraj-Sardar/CINEX/blob/master/Output/databaseuser.png)
+![](https://github.com/Abhiraj-Sardar/CINEX/blob/master/Output/databasemovie.png)
+![](https://github.com/Abhiraj-Sardar/CINEX/blob/master/Output/databasetransactions.png)
 
