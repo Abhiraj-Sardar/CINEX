@@ -29,30 +29,43 @@ lets see the admin side view of this software--
 Here the admin have to login himself or herself by using his personal credentials like username and password
 <img src="https://github.com/Abhiraj-Sardar/CINEX/blob/master/Output/adminlogin.png" height=750 width=650>
 <h1>Admin Dashboard</h1>
-it is an interactive dashboard for the admin to track users, see transactions,add new movies etc.
+it is an interactive dashboard for the admin to track users, see transactions,add new movies etc.<br>
 
 ![](https://github.com/Abhiraj-Sardar/CINEX/blob/master/Output/admindashboard.gif)
 
 <h1>Upload Movies</h1>
-in this section the user can upload new movies in the software. it is recommended to use the movies folder in the given project to upload movies and movie banner to our software.
+in this section the user can upload new movies in the software. it is recommended to use the movies folder in the given project to upload movies and movie banner to our software.<br>
 
 ![](https://github.com/Abhiraj-Sardar/CINEX/blob/master/Output/uploadmovies.png)
 ![](https://github.com/Abhiraj-Sardar/CINEX/blob/master/Output/uploadmoviesform.png)
 
 <h1>Active Members</h1>
-here the Admin can see The number of Active Members and make decision how much popularity CINEX is gaining.
+here the Admin can see The number of Active Members and make decision how much popularity CINEX is gaining.<br>
 
 ![](https://github.com/Abhiraj-Sardar/CINEX/blob/master/Output/ActiveMembers.png)
 
 <h1>Add Admin</h1>
-it allows the admin to add another admin. It is one of the better way of sharing the authiority of the software among multiple admins.hence it makes administration more effective.
+it allows the admin to add another admin. It is one of the better way of sharing the authiority of the software among multiple admins.hence it makes administration more effective.<br>
 
 ![](https://github.com/Abhiraj-Sardar/CINEX/blob/master/Output/addadmin.png)
 
 <h1>Database Schema Design</h1>
+Before we clone this project some configuratons are needed to be mend. as it uses Mysql so you must need to use that so before clonning this project we must perform the below database configurations.
+<h1>Create Database and Tables</h1>
+
 ![](https://github.com/Abhiraj-Sardar/CINEX/blob/master/Output/database1.png)
+
+<h1>Database Schema of admin</h1>
+
 ![](https://github.com/Abhiraj-Sardar/CINEX/blob/master/Output/databaseadmin.png)
+
+<h1>Database Schema of user</h1>
+
 ![](https://github.com/Abhiraj-Sardar/CINEX/blob/master/Output/databaseuser.png)
+<h1>Database Schema of movie</h1>
+
 ![](https://github.com/Abhiraj-Sardar/CINEX/blob/master/Output/databasemovie.png)
+<h1>Database Schema of transaction</h1>
+
 ![](https://github.com/Abhiraj-Sardar/CINEX/blob/master/Output/databasetransaction.png)
 
