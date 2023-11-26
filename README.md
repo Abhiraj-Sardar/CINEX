@@ -8,7 +8,7 @@ This has two different views one is Homepage another is Adminpage.
 
 ![](https://github.com/Abhiraj-Sardar/CINEX/blob/master/Output/beforelogin.gif)
 <h1>Sign Up Page</h1>
-<img src="https://github.com/Abhiraj-Sardar/CINEX/blob/master/Output/Sign%20up.png" height=750 width=750>
+<img src="https://github.com/Abhiraj-Sardar/CINEX/blob/master/Output/Sign%20up.png" height=950 width=750>
 ![](https://github.com/Abhiraj-Sardar/CINEX/blob/master/Output/Sign%20up.png|width=100)
 ![](https://github.com/Abhiraj-Sardar/CINEX/blob/master/Output/Signin.png|width=250)
 ![](https://github.com/Abhiraj-Sardar/CINEX/blob/master/Output/afterlogin.gif)
